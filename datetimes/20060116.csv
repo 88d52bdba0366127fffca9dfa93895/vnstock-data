@@ -1,2 +1,4 @@
-symbol,open,high,low,close,volume
-vsh,3.75,3.75,3.75,3.75,9000
+symbol,open,high,low,close,volume,adj_close
+khp,12.4,12.4,12.4,12.4,0,
+vsh,12.5,12.5,12.5,12.5,9000,3.75
+vtl,19.5,19.5,19.5,19.5,0,
