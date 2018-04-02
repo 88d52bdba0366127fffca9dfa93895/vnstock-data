@@ -1,5 +1,5 @@
-symbol,open,high,low,close,volume,adj_close
-hap,,,,,1400,3.4
-ree,,,,,3100,1.9
-sam,,,,,5800,2.37
-tms,,,,,0,4.34
+symbol,adj_open,adj_high,adj_low,adj_close,volume
+hap,17.8,17.8,17.8,3.4,1400
+ree,18.7,18.7,18.7,1.83,3100
+sam,19.6,19.6,19.6,1.77,5800
+tms,,,,4.31,0

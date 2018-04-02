@@ -1,2 +1,2 @@
-symbol,open,high,low,close,volume,adj_close
-vtl,,,,,1000,7.6
+symbol,adj_open,adj_high,adj_low,adj_close,volume
+vtl,7.2,7.2,7.2,7.2,1000

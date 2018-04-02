@@ -1,6 +1,6 @@
-symbol,open,high,low,close,volume,adj_close
-bbs,,,,,0,3.79
-dxp,,,,,0,1.03
-khp,12.4,12.4,12.4,12.4,0,2.82
-vsh,12.5,12.5,12.5,12.5,9000,3.75
-vtl,19.5,19.5,19.5,19.5,0,7.41
+symbol,adj_open,adj_high,adj_low,adj_close,volume
+bbs,,,,3.52,0
+dxp,,,,1.03,0
+khp,,,,2.7,0
+vsh,3.75,3.75,3.75,3.75,9000
+vtl,,,,7.02,0
