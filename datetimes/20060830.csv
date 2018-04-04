@@ -1,4 +1,4 @@
-symbol,adj_open,adj_high,adj_low,adj_close,volume
+symbol,open,high,low,close,volume
 agf,21.4,21.4,21.26,21.26,34980
 bbc,20.73,21.01,20.73,20.73,72430
 bbs,4.64,4.74,4.61,4.68,2500

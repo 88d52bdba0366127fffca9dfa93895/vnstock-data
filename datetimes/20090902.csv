@@ -1,4 +1,4 @@
-symbol,adj_open,adj_high,adj_low,adj_close,volume
+symbol,open,high,low,close,volume
 abt,,,,14.33,0
 acl,,,,11.35,0
 agf,,,,11.58,0
@@ -59,7 +59,7 @@ kmr,,,,8.0,0
 ksh,,,,15.57,0
 l10,,,,9.86,0
 laf,,,,9.89,0
-lbm,,,,7.94,0
+lbm,,,,7.6,0
 lcg,,,,28.02,0
 lgc,,,,10.09,0
 lss,,,,21.15,0

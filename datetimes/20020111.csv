@@ -1,4 +1,4 @@
-symbol,adj_open,adj_high,adj_low,adj_close,volume
+symbol,open,high,low,close,volume
 bbc,11.78,11.78,11.78,11.78,21200
 can,,,,16.96,0
 dpc,13.76,13.76,13.76,13.76,1000

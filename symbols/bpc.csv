@@ -1,4 +1,5 @@
-date,adj_open,adj_high,adj_low,adj_close,volume
+date,open,high,low,close,volume
+2018-04-04,,,,19.0,0
 2018-04-03,,,,19.0,0
 2018-04-02,,,,19.0,0
 2018-03-30,,,,19.0,0

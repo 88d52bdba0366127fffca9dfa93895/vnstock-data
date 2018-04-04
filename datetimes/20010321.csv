@@ -1,4 +1,4 @@
-symbol,adj_open,adj_high,adj_low,adj_close,volume
+symbol,open,high,low,close,volume
 hap,12.8,12.8,12.8,12.8,600
 laf,12.45,12.45,12.45,12.45,300
 ree,3.93,3.93,3.93,3.93,36100

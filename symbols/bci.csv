@@ -1,4 +1,4 @@
-date,adj_open,adj_high,adj_low,adj_close,volume
+date,open,high,low,close,volume
 2018-02-23,,,,41.9,0
 2018-02-22,41.9,41.9,41.1,41.9,51340
 2018-02-21,41.5,42.0,41.5,41.6,4760

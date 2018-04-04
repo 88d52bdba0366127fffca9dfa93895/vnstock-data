@@ -1,4 +1,4 @@
-date,adj_open,adj_high,adj_low,adj_close,volume
+date,open,high,low,close,volume
 2017-10-04,,,,22.0,0
 2017-10-03,,,,22.0,0
 2017-10-02,,,,22.0,0

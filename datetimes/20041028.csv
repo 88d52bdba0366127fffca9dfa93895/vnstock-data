@@ -1,4 +1,4 @@
-symbol,adj_open,adj_high,adj_low,adj_close,volume
+symbol,open,high,low,close,volume
 agf,10.56,10.56,10.56,10.56,2020
 bbc,7.78,7.78,7.74,7.73,5560
 bpc,5.49,5.49,5.49,5.49,200

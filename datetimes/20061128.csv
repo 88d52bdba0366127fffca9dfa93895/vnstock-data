@@ -1,4 +1,4 @@
-symbol,adj_open,adj_high,adj_low,adj_close,volume
+symbol,open,high,low,close,volume
 acb,25.05,25.05,23.38,23.92,19800
 agf,28.63,31.29,28.63,30.11,56040
 alt,12.7,12.7,12.7,12.7,10110
