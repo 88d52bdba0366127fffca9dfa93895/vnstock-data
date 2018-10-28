@@ -1,4 +1,4 @@
-symbol,open,high,low,close,volume
+ticker,open,high,low,close,volume
 agf,20.53,20.53,20.53,20.53,33190
 bbc,17.07,17.07,16.98,16.98,73800
 bbs,,,,5.01,0

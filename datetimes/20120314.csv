@@ -1,4 +1,4 @@
-symbol,open,high,low,close,volume
+ticker,open,high,low,close,volume
 aaa,5.14,5.35,5.05,5.06,103200
 aam,14.69,14.69,14.45,14.57,7390
 abt,16.91,17.15,16.91,16.91,910

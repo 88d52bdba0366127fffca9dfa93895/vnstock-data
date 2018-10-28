@@ -1,4 +1,4 @@
-symbol,open,high,low,close,volume
+ticker,open,high,low,close,volume
 can,13.66,13.66,13.66,13.66,1200
 hap,17.96,17.96,17.96,17.95,1400
 laf,15.46,15.46,15.46,15.46,200

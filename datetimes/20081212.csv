@@ -1,4 +1,4 @@
-symbol,open,high,low,close,volume
+ticker,open,high,low,close,volume
 abt,5.2,5.33,5.2,5.33,5060
 acb,11.88,12.6,11.88,12.47,1606600
 acl,6.47,6.47,6.47,6.47,32880

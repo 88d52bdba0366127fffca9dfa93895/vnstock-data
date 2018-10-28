@@ -1,4 +1,4 @@
-symbol,open,high,low,close,volume
+ticker,open,high,low,close,volume
 hap,21.01,21.01,21.01,21.01,1000
 laf,21.64,21.64,21.64,21.64,200
 ree,6.06,6.06,6.06,6.06,9100

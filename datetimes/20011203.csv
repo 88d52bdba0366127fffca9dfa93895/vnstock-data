@@ -1,4 +1,4 @@
-symbol,open,high,low,close,volume
+ticker,open,high,low,close,volume
 can,17.6,17.6,17.6,17.6,13600
 dpc,16.1,16.1,16.1,16.11,600
 hap,18.91,18.91,18.91,18.91,2400

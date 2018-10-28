@@ -1,4 +1,4 @@
-symbol,open,high,low,close,volume
+ticker,open,high,low,close,volume
 bbc,10.71,10.71,10.71,10.71,49700
 can,12.84,12.84,12.84,12.83,200
 dpc,9.23,9.23,9.23,9.22,100
